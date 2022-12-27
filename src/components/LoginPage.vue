@@ -8,7 +8,7 @@
             <div class="loginwrapper">
                 <div class="loginfields">
                     <input type="text" id="username-input" placeholder="username">
-                    <input type="text" id="password-input" placeholder="password">
+                    <input type="password" id="password-input" placeholder="password">
                 </div>
                 <a href="#" id="login-button">Login</a>
                 <a href="#" id="sigin-button">cadastre-se</a>
